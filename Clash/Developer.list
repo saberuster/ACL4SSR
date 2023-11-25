@@ -24,6 +24,10 @@ DOMAIN-SUFFIX,builder.io
 DOMAIN,yarnpkg.com
 DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN,registry.npmjs.org
+DOMAIN,pnpm.io
+DOMAIN-SUFFIX,pnpm.io
+DOMAIN,modularforms.dev
+DOMAIN-SUFFIX,modularforms.dev
 # web dev
 DOMAIN,webcontainer.io
 DOMAIN-SUFFIX,webcontainer.io
@@ -43,6 +47,16 @@ DOMAIN-SUFFIX,prisma.io
 # radix-ui
 DOMAIN,radix-ui.com
 DOMAIN-SUFFIX,radix-ui.com
+- DOMAIN,nssurge.com,🚀 节点选择
+- DOMAIN-SUFFIX,nssurge.com,🚀 节点选择
+- DOMAIN,arxiv.org,🚀 节点选择
+- DOMAIN-SUFFIX,arxiv.org,🚀 节点选择
+# nx.dev
+DOMAIN,nx.dev
+DOMAIN-SUFFIX,nx.dev
+# prisma
+DOMAIN,prisma.io
+DOMAIN-SUFFIX,prisma.io
 # ------------------------------------
 # ----- python ecosystem website -----
 # ------------------------------------

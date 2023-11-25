@@ -114,3 +114,9 @@ DOMAIN-SUFFIX,codox.io
 # for wezfurlong.org
 DOMAIN,wezfurlong.org
 DOMAIN-SUFFIX,wezfurlong.org
+# surge
+DOMAIN,nssurge.com
+DOMAIN-SUFFIX,nssurge.com
+# arxiv.org
+DOMAIN,arxiv.org
+DOMAIN-SUFFIX,arxiv.org
