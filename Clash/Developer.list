@@ -1,0 +1,59 @@
+# ------------------------------------
+# ------ cpp ecosystem website ------
+# ------------------------------------
+DOMAIN,cppreference.com
+DOMAIN-SUFFIX,cppreference.com
+# ------------------------------------
+# ------ rust ecosystem website ------
+# ------------------------------------
+DOMAIN,rust-lang.org
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN,crates.io
+DOMAIN-SUFFIX,crates.io
+# ------------------------------------
+# ---- node&web ecosystem website ----
+# ------------------------------------
+DOMAIN,zod.dev
+DOMAIN-SUFFIX,zod.dev
+DOMAIN,typescriptlang.org
+DOMAIN-SUFFIX,typescriptlang.org
+DOMAIN,threejs.org
+DOMAIN-SUFFIX,threejs.org
+DOMAIN,builder.io
+DOMAIN-SUFFIX,builder.io
+DOMAIN,yarnpkg.com
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN,registry.npmjs.org
+# web dev
+DOMAIN,webcontainer.io
+DOMAIN-SUFFIX,webcontainer.io
+DOMAIN,stackblitz.com
+DOMAIN-SUFFIX,stackblitz.com
+# angular
+DOMAIN,angular.io
+DOMAIN-SUFFIX,angular.io
+DOMAIN,angular.dev
+DOMAIN-SUFFIX,angular.dev
+# nx
+DOMAIN,nx.dev
+DOMAIN-SUFFIX,nx.dev
+# prisma
+DOMAIN,prisma.io
+DOMAIN-SUFFIX,prisma.io
+# radix-ui
+DOMAIN,radix-ui.com
+DOMAIN-SUFFIX,radix-ui.com
+# ------------------------------------
+# ----- python ecosystem website -----
+# ------------------------------------
+DOMAIN,python.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN,pypi.org
+DOMAIN,networkx.org
+DOMAIN-SUFFIX,networkx.org
+# ------------------------------------
+# ----- golang ecosystem website -----
+# ------------------------------------
+DOMAIN,docker.io
+DOMAIN-SUFFIX,docker.io

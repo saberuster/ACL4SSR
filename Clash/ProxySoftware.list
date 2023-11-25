@@ -1,0 +1,116 @@
+# ------------------------
+# --- software website ---
+# ------------------------
+# alpine linux
+DOMAIN,alpinelinux.org
+DOMAIN-SUFFIX,alpinelinux.org
+# for unreal developer
+DOMAIN,dev.epicgames.com
+DOMAIN,forums.unrealengine.com
+# for artstation
+DOMAIN-SUFFIX,artstation.com
+# for artstation login
+DOMAIN,talon-website-prod.ak.epicgames.com
+# openwrt
+DOMAIN,openwrt.org
+DOMAIN-SUFFIX,openwrt.org
+# obs download
+DOMAIN,cdn-fastly.obsproject.com
+# AI website
+DOMAIN,civitai.com
+DOMAIN-SUFFIX,civitai.com
+DOMAIN,midjourney.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN,huggingface.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,modular.com
+DOMAIN-KEYWORD,anthropic
+# microsoft download (vscode)
+DOMAIN-SUFFIX,download.prss.microsoft.com
+#  jetbrains IDE
+DOMAIN,plugins.jetbrains.com
+DOMAIN,resources.jetbrains.com
+DOMAIN,intellij-support.jetbrains.com
+DOMAIN,grazie.ai
+DOMAIN-SUFFIX,grazie.ai
+# google character ai
+DOMAIN,character.ai
+DOMAIN-SUFFIX,character.ai
+# perforce software
+DOMAIN,perforce.com
+DOMAIN-SUFFIX,perforce.com
+# wacom driver
+DOMAIN,wacom.com
+DOMAIN-SUFFIX,wacom.com
+# nextcloud
+DOMAIN-SUFFIX,nextcloud.com
+DOMAIN,nextcloud.com
+# true nas
+DOMAIN,truenas.com
+DOMAIN-SUFFIX,truenas.com
+DOMAIN,ixsystems.com
+DOMAIN-SUFFIX,ixsystems.com
+# atlassian
+DOMAIN,atlassian.com
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN,atlassian.net
+DOMAIN-SUFFIX,atlassian.net
+# stackoverchange
+DOMAIN,stackexchange.com
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,scriptable.com
+DOMAIN,scriptable.com
+# cloudflare
+DOMAIN-KEYWORD,cloudflare
+DOMAIN,prompts.chat
+# opendns
+DOMAIN,opendns.com
+DOMAIN-SUFFIX,opendns.com
+# ethereum
+DOMAIN,ethereum.org
+DOMAIN-SUFFIX,ethereum.org
+# metamask
+DOMAIN-SUFFIX,zendesk.com
+# inkscape
+DOMAIN,inkscape.org
+DOMAIN-SUFFIX,inkscape.org
+# aseprite
+DOMAIN,aseprite.org
+DOMAIN-SUFFIX,aseprite.org
+# pixiv.help
+DOMAIN,pixiv.help
+DOMAIN-SUFFIX,pixiv.help
+# spacedrive
+DOMAIN,spacedrive.com
+DOMAIN-SUFFIX,spacedrive.com
+# https://tailwindui.com/
+DOMAIN,tailwindui.com
+DOMAIN-SUFFIX,tailwindui.com
+# ------------------------
+# ----- game website -----
+# ------------------------
+# Ubisoft
+DOMAIN,ubi.com
+DOMAIN-SUFFIX,ubi.com
+# https://robertsspaceindustries.com/
+DOMAIN,robertsspaceindustries.com
+DOMAIN-SUFFIX,robertsspaceindustries.com
+# wiki.gg
+DOMAIN,wiki.gg
+DOMAIN-SUFFIX,wiki.gg
+# ---------------
+# ----- etc -----
+# ---------------
+DOMAIN-SUFFIX,reworkd.ai
+DOMAIN-SUFFIX,bing.com,
+DOMAIN-SUFFIX,eveonline.com
+# click up
+DOMAIN-SUFFIX,clickup.com
+DOMAIN-SUFFIX,clickup-prod.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN,split.io
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,codox.io
+# for wezfurlong.org
+DOMAIN,wezfurlong.org
+DOMAIN-SUFFIX,wezfurlong.org
