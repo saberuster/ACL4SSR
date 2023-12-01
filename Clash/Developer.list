@@ -47,10 +47,6 @@ DOMAIN-SUFFIX,prisma.io
 # radix-ui
 DOMAIN,radix-ui.com
 DOMAIN-SUFFIX,radix-ui.com
-- DOMAIN,nssurge.com,🚀 节点选择
-- DOMAIN-SUFFIX,nssurge.com,🚀 节点选择
-- DOMAIN,arxiv.org,🚀 节点选择
-- DOMAIN-SUFFIX,arxiv.org,🚀 节点选择
 # nx.dev
 DOMAIN,nx.dev
 DOMAIN-SUFFIX,nx.dev
@@ -71,3 +67,8 @@ DOMAIN-SUFFIX,networkx.org
 # ------------------------------------
 DOMAIN,docker.io
 DOMAIN-SUFFIX,docker.io
+# ------------------------------------
+# ------- lua ecosystem website ------
+# ------------------------------------
+DOMAIN,lua.org
+DOMAIN-SUFFIX,lua.org
