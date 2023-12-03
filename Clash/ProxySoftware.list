@@ -86,6 +86,9 @@ DOMAIN-SUFFIX,spacedrive.com
 # https://tailwindui.com/
 DOMAIN,tailwindui.com
 DOMAIN-SUFFIX,tailwindui.com
+# vscode
+DOMAIN,vsassets.io
+DOMAIN-SUFFIX,vsassets.io
 # ------------------------
 # ----- game website -----
 # ------------------------

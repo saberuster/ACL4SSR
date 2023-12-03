@@ -6,8 +6,6 @@ gitea_new = "https://gitea.local:30008/root/ACL4SSR/raw/branch"
 src_file = "Clash/config/ACL4SSR_Online_Full.ini"
 target_file = "Clash/config/ACL4SSR_Online_Full_update.ini"
 
-print("start migrate")
-
 with open(src_file, "r", encoding="utf-8") as src, open(
     target_file, "w+", encoding="utf-8"
 ) as target:
