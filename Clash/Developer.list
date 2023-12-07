@@ -72,3 +72,9 @@ DOMAIN-SUFFIX,docker.io
 # ------------------------------------
 DOMAIN,lua.org
 DOMAIN-SUFFIX,lua.org
+# ------------------------------------
+# --------- mongodb website ----------
+# ------------------------------------
+DOMAIN,mongodb.com
+DOMAIN-SUFFIX,mongodb.com
+DOMAIN-KEYWORD,mongodb
