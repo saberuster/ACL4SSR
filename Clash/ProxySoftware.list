@@ -14,6 +14,7 @@ DOMAIN,talon-website-prod.ak.epicgames.com
 # openwrt
 DOMAIN,openwrt.org
 DOMAIN-SUFFIX,openwrt.org
+DOMAIN-KEYWORD,openwrt
 # obs download
 DOMAIN,cdn-fastly.obsproject.com
 # AI website
@@ -48,8 +49,10 @@ DOMAIN,nextcloud.com
 # true nas
 DOMAIN,truenas.com
 DOMAIN-SUFFIX,truenas.com
+DOMAIN-KEYWORD,truenas
 DOMAIN,ixsystems.com
 DOMAIN-SUFFIX,ixsystems.com
+DOMAIN-KEYWORD,ixsystems
 # atlassian
 DOMAIN,atlassian.com
 DOMAIN-SUFFIX,atlassian.com
