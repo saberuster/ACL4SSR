@@ -92,6 +92,10 @@ DOMAIN-SUFFIX,tailwindui.com
 # vscode
 DOMAIN,vsassets.io
 DOMAIN-SUFFIX,vsassets.io
+# excalidraw.com
+DOMAIN,excalidraw.com
+DOMAIN-SUFFIX,excalidraw.com
+DOMAIN-KEYWORD,excalidraw
 # ------------------------
 # ----- game website -----
 # ------------------------
