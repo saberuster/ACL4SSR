@@ -1,0 +1,60 @@
+# ------------------------------------
+# ---------- vue ecosystem -----------
+# ------------------------------------
+# vue
+DOMAIN,vuejs.org
+DOMAIN-SUFFIX,vuejs.org
+# vuestic.dev
+DOMAIN,vuestic.dev
+DOMAIN-SUFFIX,vuestic.dev
+DOMAIN-KEYWORD,vuestic
+# ------------------------------------
+# ---- node&web ecosystem website ----
+# ------------------------------------
+DOMAIN,zod.dev
+DOMAIN-SUFFIX,zod.dev
+DOMAIN,typescriptlang.org
+DOMAIN-SUFFIX,typescriptlang.org
+DOMAIN,threejs.org
+DOMAIN-SUFFIX,threejs.org
+DOMAIN,builder.io
+DOMAIN-SUFFIX,builder.io
+DOMAIN,yarnpkg.com
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN,registry.npmjs.org
+DOMAIN,pnpm.io
+DOMAIN-SUFFIX,pnpm.io
+DOMAIN,modularforms.dev
+DOMAIN-SUFFIX,modularforms.dev
+# web dev
+DOMAIN,webcontainer.io
+DOMAIN-SUFFIX,webcontainer.io
+DOMAIN,stackblitz.com
+DOMAIN-SUFFIX,stackblitz.com
+# angular
+DOMAIN,angular.io
+DOMAIN-SUFFIX,angular.io
+DOMAIN,angular.dev
+DOMAIN-SUFFIX,angular.dev
+# nx
+DOMAIN,nx.dev
+DOMAIN-SUFFIX,nx.dev
+# prisma
+DOMAIN,prisma.io
+DOMAIN-SUFFIX,prisma.io
+# radix-ui
+DOMAIN,radix-ui.com
+DOMAIN-SUFFIX,radix-ui.com
+# nx.dev
+DOMAIN,nx.dev
+DOMAIN-SUFFIX,nx.dev
+# prisma
+DOMAIN,prisma.io
+DOMAIN-SUFFIX,prisma.io
+# vite
+DOMAIN,vitejs.dev
+DOMAIN-SUFFIX,vitejs.dev
+DOMAIN,vitepress.dev
+DOMAIN-SUFFIX,vitepress.dev
+DOMAIN,islandjs.dev
+DOMAIN-SUFFIX,islandjs.dev
