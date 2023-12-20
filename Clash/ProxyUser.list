@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,arxiv.org
 DOMAIN,unrealengine.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-KEYWORD,unrealengine
+# graphassets
+DOMAIN,graphassets.com
+DOMAIN-SUFFIX,graphassets.com
