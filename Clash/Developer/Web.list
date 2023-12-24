@@ -9,6 +9,13 @@ DOMAIN,vuestic.dev
 DOMAIN-SUFFIX,vuestic.dev
 DOMAIN-KEYWORD,vuestic
 # ------------------------------------
+# ---------- react ecosystem ---------
+# ------------------------------------
+# react
+DOMAIN,nextjs.org
+DOMAIN-SUFFIX,nextjs.org
+DOMAIN-KEYWORD,nextjs
+# ------------------------------------
 # ---- node&web ecosystem website ----
 # ------------------------------------
 DOMAIN,zod.dev
