@@ -28,12 +28,6 @@ DOMAIN-SUFFIX,modular.com
 DOMAIN-KEYWORD,anthropic
 # microsoft download (vscode)
 DOMAIN-SUFFIX,download.prss.microsoft.com
-#  jetbrains IDE
-DOMAIN,plugins.jetbrains.com
-DOMAIN,resources.jetbrains.com
-DOMAIN,intellij-support.jetbrains.com
-DOMAIN,grazie.ai
-DOMAIN-SUFFIX,grazie.ai
 # google character ai
 DOMAIN,character.ai
 DOMAIN-SUFFIX,character.ai
