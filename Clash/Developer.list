@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN,pypi.org
 DOMAIN,networkx.org
 DOMAIN-SUFFIX,networkx.org
+DOMAIN,pythontutor.com
+DOMAIN-SUFFIX,pythontutor.com
 # ------------------------------------
 # ----- golang ecosystem website -----
 # ------------------------------------
