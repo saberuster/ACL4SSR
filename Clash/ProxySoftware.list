@@ -124,3 +124,6 @@ DOMAIN-SUFFIX,nssurge.com
 # arxiv.org
 DOMAIN,arxiv.org
 DOMAIN-SUFFIX,arxiv.org
+# https://bottlerocket.dev/
+DOMAIN,bottlerocket.dev
+DOMAIN-SUFFIX,bottlerocket.dev
