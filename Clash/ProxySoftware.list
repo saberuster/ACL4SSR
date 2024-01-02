@@ -127,3 +127,5 @@ DOMAIN-SUFFIX,arxiv.org
 # https://bottlerocket.dev/
 DOMAIN,bottlerocket.dev
 DOMAIN-SUFFIX,bottlerocket.dev
+DOMAIN,jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.net
