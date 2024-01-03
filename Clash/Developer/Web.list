@@ -72,3 +72,7 @@ DOMAIN-KEYWORD,motioncanvas
 # framer
 DOMAIN,framer.com
 DOMAIN-SUFFIX,framer.com
+# shadcn.com
+DOMAIN,shadcn.com
+DOMAIN-SUFFIX,shadcn.com
+DOMAIN-KEYWORD,shadcn
