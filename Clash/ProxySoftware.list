@@ -129,3 +129,5 @@ DOMAIN,bottlerocket.dev
 DOMAIN-SUFFIX,bottlerocket.dev
 DOMAIN,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN,kuromis.com
+DOMAIN-SUFFIX,kuromis.com
