@@ -1,0 +1,17 @@
+# figma cdn
+DOMAIN,sanity.io
+DOMAIN-SUFFIX,sanity.io
+# figma
+DOMAIN,figma.com
+DOMAIN-SUFFIX,figma.com
+DOMAIN-KEYWORD,figma
+# miro
+DOMAIN,miro.com
+DOMAIN-SUFFIX,miro.com
+DOMAIN-KEYWORD,miro
+DOMAIN,mirostatic.com
+DOMAIN-SUFFIX,mirostatic.com
+DOMAIN-KEYWORD,mirostatic
+# noisegenerator
+DOMAIN,noisetexturegenerator.com
+DOMAIN-SUFFIX,noisetexturegenerator.com
