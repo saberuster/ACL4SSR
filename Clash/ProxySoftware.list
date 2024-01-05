@@ -131,4 +131,8 @@ DOMAIN,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN,kuromis.com
 DOMAIN-SUFFIX,kuromis.com
+# gitness
+DOMAIN,gitness.com
+DOMAIN-SUFFIX,gitness.com
+DOMAIN-KEYWORD,gitness
 
