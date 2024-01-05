@@ -131,7 +131,4 @@ DOMAIN,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN,kuromis.com
 DOMAIN-SUFFIX,kuromis.com
-# figma
-DOMAIN,figma.com
-DOMAIN-SUFFIX,figma.com
-DOMAIN-KEYWORD,figma
+
