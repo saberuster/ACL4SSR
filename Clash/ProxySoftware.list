@@ -135,4 +135,7 @@ DOMAIN-SUFFIX,kuromis.com
 DOMAIN,gitness.com
 DOMAIN-SUFFIX,gitness.com
 DOMAIN-KEYWORD,gitness
+DOMAIN,blender.org
+DOMAIN-SUFFIX,blender.org
+DOMAIN-KEYWORD,blender
 
