@@ -10,6 +10,10 @@ DOMAIN,rust-lang.org
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN,crates.io
 DOMAIN-SUFFIX,crates.io
+DOMAIN,docs.rs
+DOMAIN-SUFFIX,docs.rs
+DOMAIN,plot.ly
+DOMAIN-SUFFIX,plot.ly
 # ------------------------------------
 # ----- python ecosystem website -----
 # ------------------------------------
