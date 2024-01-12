@@ -41,3 +41,7 @@ DOMAIN-SUFFIX,lua.org
 DOMAIN,mongodb.com
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-KEYWORD,mongodb
+# ------------------------------------
+DOMAIN,cilium.io
+DOMAIN-SUFFIX,cilium.io
+DOMAIN-KEYWORD,cilium
