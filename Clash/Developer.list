@@ -51,3 +51,7 @@ DOMAIN,3dcoat.com
 DOMAIN-SUFFIX,3dcoat.com
 DOMAIN-KEYWORD,3dcoat
 DOMAIN-KEYWORD,hcaptcha
+DOMAIN,k8s.io
+DOMAIN-SUFFIX,k8s.io
+DOMAIN,truecharts.org
+DOMAIN-SUFFIX,truecharts.org
