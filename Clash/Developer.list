@@ -55,3 +55,10 @@ DOMAIN,k8s.io
 DOMAIN-SUFFIX,k8s.io
 DOMAIN,truecharts.org
 DOMAIN-SUFFIX,truecharts.org
+# aws
+DOMAIN,awsstatic.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN,a2z.com
+DOMAIN-SUFFIX,a2z.com
+DOMAIN,aws.dev
+DOMAIN-SUFFIX,aws.dev
