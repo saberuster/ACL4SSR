@@ -1,7 +1,7 @@
 # 将 ruleset 里面的 url 从 github链接 改为 gitea链接
 
 github_old = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR"
-gitea_new = "https://gitea.local:30008/root/ACL4SSR/raw/branch"
+gitea_new = "http://192.168.2.1:3000/root/ACL4SSR/raw/branch"
 
 src_file = "Clash/config/ACL4SSR_Online_Full.ini"
 target_file = "Clash/config/ACL4SSR_Online_Full_update.ini"
