@@ -18,4 +18,6 @@ DOMAIN,graphassets.com
 DOMAIN-SUFFIX,graphassets.com
 # wiki.factorio.com
 DOMAIN,wiki.factorio.com
-
+DOMAIN,forums.factorio.com
+DOMAIN,factorioforums.com
+DOMAIN-SUFFIX,factorioforums.com
