@@ -16,8 +16,8 @@ DOMAIN-KEYWORD,unrealengine
 # graphassets
 DOMAIN,graphassets.com
 DOMAIN-SUFFIX,graphassets.com
-# wiki.factorio.com
-DOMAIN,wiki.factorio.com
-DOMAIN,forums.factorio.com
+# factorio
+DOMAIN,factorio.com
+DOMAIN-SUFFIX,factorio.com
 DOMAIN,factorioforums.com
 DOMAIN-SUFFIX,factorioforums.com
