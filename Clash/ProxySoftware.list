@@ -150,3 +150,5 @@ DOMAIN-KEYWORD,langchain
 DOMAIN,meta.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-KEYWORD,llama
+DOMAIN,meta.ai
+DOMAIN-SUFFIX,meta.ai
