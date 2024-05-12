@@ -76,3 +76,6 @@ DOMAIN-SUFFIX,framer.com
 DOMAIN,shadcn.com
 DOMAIN-SUFFIX,shadcn.com
 DOMAIN-KEYWORD,shadcn
+# astro.build
+DOMAIN,astro.build
+DOMAIN-SUFFIX,astro.build
