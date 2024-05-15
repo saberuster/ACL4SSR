@@ -79,3 +79,6 @@ DOMAIN-KEYWORD,shadcn
 # astro.build
 DOMAIN,astro.build
 DOMAIN-SUFFIX,astro.build
+# containers.dev
+DOMAIN,containers.dev
+DOMAIN-SUFFIX,containers.dev
