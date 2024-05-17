@@ -88,3 +88,6 @@ DOMAIN-SUFFIX,codepen.io
 # css-tricks.com
 DOMAIN,css-tricks.com
 DOMAIN-SUFFIX,css-tricks.com
+# chakra-ui.com
+DOMAIN,chakra-ui.com
+DOMAIN-SUFFIX,chakra-ui.com
