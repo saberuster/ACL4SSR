@@ -82,3 +82,9 @@ DOMAIN-SUFFIX,astro.build
 # containers.dev
 DOMAIN,containers.dev
 DOMAIN-SUFFIX,containers.dev
+# codeopen
+DOMAIN,codepen.io
+DOMAIN-SUFFIX,codepen.io
+# css-tricks.com
+DOMAIN,css-tricks.com
+DOMAIN-SUFFIX,css-tricks.com
