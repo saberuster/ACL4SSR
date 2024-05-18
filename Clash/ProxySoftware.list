@@ -152,3 +152,6 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-KEYWORD,llama
 DOMAIN,meta.ai
 DOMAIN-SUFFIX,meta.ai
+# unity.com
+DOMAIN,unity.com
+DOMAIN-SUFFIX,unity.com
