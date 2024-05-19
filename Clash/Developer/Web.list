@@ -91,3 +91,6 @@ DOMAIN-SUFFIX,css-tricks.com
 # chakra-ui.com
 DOMAIN,chakra-ui.com
 DOMAIN-SUFFIX,chakra-ui.com
+# plate.js
+DOMAIN,platejs.org
+DOMAIN-SUFFIX,platejs.org
