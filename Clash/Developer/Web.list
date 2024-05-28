@@ -94,3 +94,6 @@ DOMAIN-SUFFIX,chakra-ui.com
 # plate.js
 DOMAIN,platejs.org
 DOMAIN-SUFFIX,platejs.org
+# styled-components.com
+DOMAIN,styled-components.com
+DOMAIN-SUFFIX,styled-components.com
