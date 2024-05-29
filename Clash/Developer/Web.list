@@ -96,4 +96,7 @@ DOMAIN,platejs.org
 DOMAIN-SUFFIX,platejs.org
 # styled-components.com
 DOMAIN,styled-components.com
-DOMAIN-SUFFIX,styled-components.com
+DOMAIN-SUFFIX,styled-components.com 
+# nextra.site
+DOMAIN,nextra.site
+DOMAIN-SUFFIX,nextra.site
