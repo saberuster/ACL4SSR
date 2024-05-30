@@ -66,3 +66,6 @@ DOMAIN,productboard.com
 DOMAIN-SUFFIX,productboard.com
 DOMAIN,cookielaw.org
 DOMAIN-SUFFIX,cookielaw.org
+# fluxcd.io
+DOMAIN,fluxcd.io
+DOMAIN-SUFFIX,fluxcd.io
