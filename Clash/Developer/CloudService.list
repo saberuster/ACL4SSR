@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,pkg.dev
 # vercel
 DOMAIN,vercel.com
 DOMAIN-SUFFIX,vercel.com
+DOMAIN-KEYWORD,vercel
