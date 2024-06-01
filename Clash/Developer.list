@@ -69,3 +69,130 @@ DOMAIN-SUFFIX,cookielaw.org
 # fluxcd.io
 DOMAIN,fluxcd.io
 DOMAIN-SUFFIX,fluxcd.io
+# k8s container registry need
+DOMAIN-SUFFIX,pkg.dev
+# vercel
+DOMAIN,vercel.com
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-KEYWORD,vercel
+# ------------------------------------
+# ---------- vue ecosystem -----------
+# ------------------------------------
+# vue
+DOMAIN,vuejs.org
+DOMAIN-SUFFIX,vuejs.org
+# vuestic.dev
+DOMAIN,vuestic.dev
+DOMAIN-SUFFIX,vuestic.dev
+DOMAIN-KEYWORD,vuestic
+# ------------------------------------
+# ---------- react ecosystem ---------
+# ------------------------------------
+# react
+DOMAIN,nextjs.org
+DOMAIN-SUFFIX,nextjs.org
+DOMAIN-KEYWORD,nextjs
+# ------------------------------------
+# ---- node&web ecosystem website ----
+# ------------------------------------
+DOMAIN,zod.dev
+DOMAIN-SUFFIX,zod.dev
+DOMAIN,typescriptlang.org
+DOMAIN-SUFFIX,typescriptlang.org
+DOMAIN,threejs.org
+DOMAIN-SUFFIX,threejs.org
+DOMAIN,builder.io
+DOMAIN-SUFFIX,builder.io
+DOMAIN,yarnpkg.com
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN,registry.npmjs.org
+DOMAIN,pnpm.io
+DOMAIN-SUFFIX,pnpm.io
+DOMAIN,modularforms.dev
+DOMAIN-SUFFIX,modularforms.dev
+# web dev
+DOMAIN,webcontainer.io
+DOMAIN-SUFFIX,webcontainer.io
+DOMAIN,stackblitz.com
+DOMAIN-SUFFIX,stackblitz.com
+# angular
+DOMAIN,angular.io
+DOMAIN-SUFFIX,angular.io
+DOMAIN,angular.dev
+DOMAIN-SUFFIX,angular.dev
+# nx
+DOMAIN,nx.dev
+DOMAIN-SUFFIX,nx.dev
+# prisma
+DOMAIN,prisma.io
+DOMAIN-SUFFIX,prisma.io
+# radix-ui
+DOMAIN,radix-ui.com
+DOMAIN-SUFFIX,radix-ui.com
+# nx.dev
+DOMAIN,nx.dev
+DOMAIN-SUFFIX,nx.dev
+# prisma
+DOMAIN,prisma.io
+DOMAIN-SUFFIX,prisma.io
+# vite
+DOMAIN,vitejs.dev
+DOMAIN-SUFFIX,vitejs.dev
+DOMAIN,vitepress.dev
+DOMAIN-SUFFIX,vitepress.dev
+DOMAIN,islandjs.dev
+DOMAIN-SUFFIX,islandjs.dev
+# motioncanvas
+DOMAIN,motioncanvas.io
+DOMAIN-SUFFIX,motioncanvas.io
+DOMAIN-KEYWORD,motioncanvas
+# framer
+DOMAIN,framer.com
+DOMAIN-SUFFIX,framer.com
+# shadcn.com
+DOMAIN,shadcn.com
+DOMAIN-SUFFIX,shadcn.com
+DOMAIN-KEYWORD,shadcn
+# astro.build
+DOMAIN,astro.build
+DOMAIN-SUFFIX,astro.build
+# containers.dev
+DOMAIN,containers.dev
+DOMAIN-SUFFIX,containers.dev
+# codeopen
+DOMAIN,codepen.io
+DOMAIN-SUFFIX,codepen.io
+# css-tricks.com
+DOMAIN,css-tricks.com
+DOMAIN-SUFFIX,css-tricks.com
+# chakra-ui.com
+DOMAIN,chakra-ui.com
+DOMAIN-SUFFIX,chakra-ui.com
+# plate.js
+DOMAIN,platejs.org
+DOMAIN-SUFFIX,platejs.org
+# styled-components.com
+DOMAIN,styled-components.com
+DOMAIN-SUFFIX,styled-components.com 
+# nextra.site
+DOMAIN,nextra.site
+DOMAIN-SUFFIX,nextra.site
+# ------------------------------------
+# ------- unreal dev ecosystem -------
+# ------------------------------------
+DOMAIN,dev.epicgames.com
+DOMAIN,tracking.epicgames.com
+DOMAIN,ue-cdn.artstation.com
+DOMAIN,static-assets-prod.epicgames.com
+DOMAIN,epic-developer-community.qstv.on.epicgames.com
+DOMAIN,ue4community.wiki
+DOMAIN-SUFFIX,ue4community.wiki
+DOMAIN,cdn.unrealengine.com
+# ------------------------------------
+# ----- microsoft dev ecosystem ------
+# ------------------------------------
+DOMAIN,api.nuget.org
+DOMAIN,go.microsoft.com
+DOMAIN,microsoft.github.io
+DOMAIN,containers.dev
+DOMAIN-SUFFIX,containers.dev

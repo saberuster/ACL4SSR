@@ -1,6 +1,0 @@
-# k8s container registry need
-DOMAIN-SUFFIX,pkg.dev
-# vercel
-DOMAIN,vercel.com
-DOMAIN-SUFFIX,vercel.com
-DOMAIN-KEYWORD,vercel
