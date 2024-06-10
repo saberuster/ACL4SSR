@@ -3,5 +3,7 @@ DOMAIN,plugins.jetbrains.com
 DOMAIN,resources.jetbrains.com
 DOMAIN,intellij-support.jetbrains.com
 DOMAIN,youtrack-support.jetbrains.com
+DOMAIN,marketplace.jetbrains.com
+DOMAIN-SUFFIX,marketplace.jetbrains.com
 DOMAIN,grazie.ai
 DOMAIN-SUFFIX,grazie.ai
