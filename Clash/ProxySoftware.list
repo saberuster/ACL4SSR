@@ -167,3 +167,6 @@ DOMAIN-SUFFIX,anyclub.org
 # rizom-lab.com
 DOMAIN,rizom-lab.com
 DOMAIN-SUFFIX,rizom-lab.com
+# devpod.sh
+DOMAIN,devpod.sh
+DOMAIN-SUFFIX,devpod.sh
