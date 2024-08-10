@@ -1,3 +1,11 @@
+DOMAIN,nodejs.org
+DOMAIN-SUFFIX,nodejs.org
+
 # date-fns modern JavaScript date utility library
 DOMAIN,date-fns.org
 DOMAIN-SUFFIX,date-fns.org
+
+
+# tailwindcss
+DOMAIN,tailwindcss.com
+DOMAIN-SUFFIX,tailwindcss.com

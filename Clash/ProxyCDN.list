@@ -1,0 +1,7 @@
+# 国外需要代理的cdn
+
+# Amazon CloudFront
+DOMAIN-SUFFIX,cloudfront.net
+
+# Fastly CDN
+DOMAIN-SUFFIX,fastlydns.net
