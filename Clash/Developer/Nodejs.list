@@ -1,5 +1,7 @@
 DOMAIN,nodejs.org
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN,npmjs.com
+DOMAIN-SUFFIX,npmjs.com
 
 # date-fns modern JavaScript date utility library
 DOMAIN,date-fns.org
