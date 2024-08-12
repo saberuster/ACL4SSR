@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,cloudfront.net
 
 # Fastly CDN
 DOMAIN-SUFFIX,fastlydns.net
+
+# Bootstrap CDN
+DOMAIN-SUFFIX,bootstrapcdn.com
