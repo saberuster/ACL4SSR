@@ -19,3 +19,7 @@ DOMAIN-SUFFIX,intercomcdn.com
 # leonardo.ai
 DOMAIN,leonardo.ai
 DOMAIN-SUFFIX,leonardo.ai
+
+# julia lang
+DOMAIN,julialang.org
+DOMAIN-SUFFIX,julialang.org

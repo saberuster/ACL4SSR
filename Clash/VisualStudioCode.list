@@ -1,5 +1,11 @@
 # VS Code 相关需要代理的地址
-
 DOMAIN,vscode.dev
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN,vscode-sync.trafficmanager.net
+
+# devpod.sh
+DOMAIN,devpod.sh
+DOMAIN-SUFFIX,devpod.sh
+
+# ubuntu
+DOMAIN,archive.ubuntu.com

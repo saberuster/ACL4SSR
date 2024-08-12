@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,date-fns.org
 # tailwindcss
 DOMAIN,tailwindcss.com
 DOMAIN-SUFFIX,tailwindcss.com
+
+# w3c doc
+DOMAIN,developer.mozilla.org
