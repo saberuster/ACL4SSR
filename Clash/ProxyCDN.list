@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,fastlydns.net
 
 # Bootstrap CDN
 DOMAIN-SUFFIX,bootstrapcdn.com
+
+# rack cdn
+DOMAIN-SUFFIX,rackcdn.com
