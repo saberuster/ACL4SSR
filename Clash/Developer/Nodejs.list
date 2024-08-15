@@ -14,3 +14,7 @@ DOMAIN-SUFFIX,tailwindcss.com
 
 # w3c doc
 DOMAIN,developer.mozilla.org
+
+# https://turbo.build/
+DOMAIN,turbo.build
+DOMAIN-SUFFIX,turbo.build
