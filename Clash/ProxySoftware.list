@@ -170,3 +170,9 @@ DOMAIN-SUFFIX,rizom-lab.com
 # devpod.sh
 DOMAIN,devpod.sh
 DOMAIN-SUFFIX,devpod.sh
+# infisical.com
+DOMAIN,infisical.com
+DOMAIN-SUFFIX,infisical.com
+# teable.io
+DOMAIN,teable.io
+DOMAIN-SUFFIX,teable.io
