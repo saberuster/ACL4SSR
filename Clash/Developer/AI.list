@@ -23,3 +23,7 @@ DOMAIN-SUFFIX,leonardo.ai
 # julia lang
 DOMAIN,julialang.org
 DOMAIN-SUFFIX,julialang.org
+
+# perplexity.ai
+DOMAIN,perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
