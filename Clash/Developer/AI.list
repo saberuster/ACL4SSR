@@ -27,3 +27,7 @@ DOMAIN-SUFFIX,julialang.org
 # perplexity.ai
 DOMAIN,perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
+
+# grok
+DOMAIN,x.ai
+DOMAIN-SUFFIX,x.ai
