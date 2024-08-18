@@ -31,3 +31,7 @@ DOMAIN-SUFFIX,perplexity.ai
 # grok
 DOMAIN,x.ai
 DOMAIN-SUFFIX,x.ai
+
+# meta ai
+DOMAIN,meta.ai
+DOMAIN-SUFFIX,meta.ai
