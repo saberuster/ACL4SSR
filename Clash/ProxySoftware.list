@@ -182,3 +182,6 @@ DOMAIN-SUFFIX,sagernet.org
 # https://sli.dev/
 DOMAIN,sli.dev
 DOMAIN-SUFFIX,sli.dev
+# https://tauri.app/
+DOMAIN,tauri.app
+DOMAIN-SUFFIX,tauri.app
