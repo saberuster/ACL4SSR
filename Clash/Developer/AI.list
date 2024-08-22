@@ -35,3 +35,6 @@ DOMAIN-SUFFIX,x.ai
 # meta ai
 DOMAIN,meta.ai
 DOMAIN-SUFFIX,meta.ai
+DOMAIN,meta.com
+DOMAIN-SUFFIX,meta.com
+DOMAIN-KEYWORD,llama
