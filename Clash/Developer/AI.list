@@ -38,3 +38,7 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN,meta.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-KEYWORD,llama
+
+# https://continue.dev/
+DOMAIN,continue.dev
+DOMAIN-SUFFIX,continue.dev
