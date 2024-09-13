@@ -180,3 +180,6 @@ DOMAIN-SUFFIX,sli.dev
 # https://tauri.app/
 DOMAIN,tauri.app
 DOMAIN-SUFFIX,tauri.app
+# sketchfab.com
+DOMAIN,sketchfab.com
+DOMAIN-SUFFIX,sketchfab.com
